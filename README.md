@@ -32,7 +32,6 @@ Gain insights useful for business strategy and decision-making
 
 
 
-![Dashboard Screenshot](https://github.com/DevendraJangid0103/Zomato-EDA-Analysis./blob/main/restaurant%20vs%20rating.png)
 
 **🧰 Tech Stack & Tools**
 
@@ -72,6 +71,14 @@ IDE: Jupyter Notebook
 📍 Distribution & correlation plots for better understanding
 
 
+![Dashboard Screenshot](https://github.com/DevendraJangid0103/Zomato-EDA-Analysis./blob/main/visualasation.png)
+
+
+
+
+
+
+![Dashboard Screenshot](https://github.com/DevendraJangid0103/Zomato-EDA-Analysis./blob/main/restaurant%20vs%20rating.png)
 
 
 **🧾 Key Insights**
