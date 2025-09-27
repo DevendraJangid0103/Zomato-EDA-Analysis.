@@ -32,7 +32,7 @@ Gain insights useful for business strategy and decision-making
 
 
 
-
+![Dashboard Screenshot](https://github.com/DevendraJangid0103/Zomato-EDA-Analysis./blob/main/restaurant%20vs%20rating.png)
 
 **🧰 Tech Stack & Tools**
 
