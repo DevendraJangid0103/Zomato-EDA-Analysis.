@@ -14,12 +14,19 @@ Visualize key metrics like ratings, votes, cost, and delivery options
 
 Gain insights useful for business strategy and decision-making
 
+
+
+
 **🧠 Key Learnings**
 
 ✔️ Data Cleaning and handling missing values
 ✔️ Data Exploration and Visualization using Matplotlib & Seaborn
 ✔️ Identifying patterns, correlations, and insights
 ✔️ Drawing business conclusions from raw data
+
+
+
+
 
 **🧰 Tech Stack & Tools**
 
@@ -29,12 +36,19 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn
 
 IDE: Jupyter Notebook
 
+
+
+
 **📊 Exploratory Data Analysis (EDA) Steps**
 
 1️⃣ Data Cleaning – Removed duplicates, handled missing values
 2️⃣ Feature Analysis – Studied cost, ratings, cuisines, votes
 3️⃣ Visualization – Created plots to represent key trends
 4️⃣ Insights Generation – Derived business-focused conclusions
+
+
+
+
 
 **📈 Visualizations & Insights**
 
@@ -44,6 +58,9 @@ IDE: Jupyter Notebook
 📍 Impact of online delivery on ratings
 📍 Distribution & correlation plots for better understanding
 
+
+
+
 **🧾 Key Insights**
 
 🔹 Cities like Bangalore and Delhi NCR dominate restaurant count
@@ -51,6 +68,9 @@ IDE: Jupyter Notebook
 🔹 Restaurants with online delivery usually have higher ratings
 🔹 Mid-range restaurants receive more positive votes
 🔹 Cuisine preferences vary by region, impacting cost & demand
+
+
+
 
 **🚀 Future Scope**
 
