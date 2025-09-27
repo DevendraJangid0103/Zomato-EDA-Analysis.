@@ -8,9 +8,12 @@ This project showcases how raw data can be transformed into meaningful business 
 
 Understand market trends and customer preferences
 
+
 Analyze restaurant performance based on location, cuisine, and price
 
+
 Visualize key metrics like ratings, votes, cost, and delivery options
+
 
 Gain insights useful for business strategy and decision-making
 
@@ -20,8 +23,11 @@ Gain insights useful for business strategy and decision-making
 **🧠 Key Learnings**
 
 ✔️ Data Cleaning and handling missing values
+
 ✔️ Data Exploration and Visualization using Matplotlib & Seaborn
+
 ✔️ Identifying patterns, correlations, and insights
+
 ✔️ Drawing business conclusions from raw data
 
 
@@ -42,8 +48,11 @@ IDE: Jupyter Notebook
 **📊 Exploratory Data Analysis (EDA) Steps**
 
 1️⃣ Data Cleaning – Removed duplicates, handled missing values
+
 2️⃣ Feature Analysis – Studied cost, ratings, cuisines, votes
+
 3️⃣ Visualization – Created plots to represent key trends
+
 4️⃣ Insights Generation – Derived business-focused conclusions
 
 
@@ -53,9 +62,13 @@ IDE: Jupyter Notebook
 **📈 Visualizations & Insights**
 
 📍 Top Cities with maximum restaurants
+
 📍 Most popular cuisines across regions
+
 📍 Relationship between cost for two and ratings
+
 📍 Impact of online delivery on ratings
+
 📍 Distribution & correlation plots for better understanding
 
 
@@ -64,9 +77,13 @@ IDE: Jupyter Notebook
 **🧾 Key Insights**
 
 🔹 Cities like Bangalore and Delhi NCR dominate restaurant count
+
 🔹 North Indian & Chinese cuisines are the most popular
+
 🔹 Restaurants with online delivery usually have higher ratings
+
 🔹 Mid-range restaurants receive more positive votes
+
 🔹 Cuisine preferences vary by region, impacting cost & demand
 
 
