@@ -92,5 +92,7 @@ IDE: Jupyter Notebook
 **🚀 Future Scope**
 
 🔹 Build a Power BI / Tableau Dashboard for better visualization
+
 🔹 Create a Machine Learning model to predict ratings or cost
+
 🔹 Deploy as an interactive Streamlit Web App
